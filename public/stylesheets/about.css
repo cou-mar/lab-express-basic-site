@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+#toy {
+    width: 50vw;
+    height: 40vh;
+}
+
+#giraffe {
+    width: 40vw;
+    height: 55vh;
+}
