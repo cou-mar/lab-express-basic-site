@@ -2,7 +2,12 @@ body {
     background-color: paleturquoise;
 }
 
-img {
+#rocks {
     width: 40vw;
+    height: 60vh;
+}
+
+#pilgrim {
+    width: 30vw;
     height: 60vh;
 }
